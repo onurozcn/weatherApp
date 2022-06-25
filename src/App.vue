@@ -50,7 +50,7 @@ export default {
   name: "app",
   data() {
     return {
-      api_key: "7402d5148c351ba540d842af8d9eeb56",
+      api_key: "", // Place your API key in between quotation marks
       query: "Landau",
       weather: {},
       show: false
